@@ -1,7 +1,6 @@
 # Hola, soy Gonzalo 👋
 
-### `Datos · Física · Sistemas`
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=435&lines=Datos+%2B+F%C3%ADsica;Estudiante+de+Ciencias+F%C3%ADsicas;Análisis+de+datos+con+Python+%26+SQL)](https://git.io/typing-svg)
 ---
 
 ## 🧑‍💻 Sobre mí
